@@ -1,0 +1,1 @@
+insert into book(id,name) values('e27294b984024f9081ed357c7bbc7a70','book dataBase');
